@@ -1,0 +1,14 @@
+.idea/
+*.iml
+target/
+logs/
+workspace.xml
+
+.DS_Store
+
+.classpath
+.project
+.settings/
+
+bin/
+snapshots/
